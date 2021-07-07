@@ -1,7 +1,7 @@
 'use strict';
 
 import moment from 'moment';
-import {_adapters} from 'chart.js';
+import {_adapters} from 'chart.js-v3';
 
 const FORMATS = {
   datetime: 'MMM D, YYYY, h:mm:ss a',
